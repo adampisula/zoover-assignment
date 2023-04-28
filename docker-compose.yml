@@ -1,0 +1,15 @@
+version: "3.9"
+services:
+  db:
+    image: postgres:15.2
+    environment:
+      - POSTGRES_PASSWORD=shhh
+    ports:
+      - "5432:5432"
+  # data-importer:
+  #   build: data-importer/
+  #   environment:
+  #     - PORT=
+  #     - DATABASE_URL=postgres://db/postgres
+  #   expose:
+  #     - 5432
