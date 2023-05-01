@@ -1,0 +1,640 @@
+{
+    "photosCount": 22,
+    "popularityScore": 90.08,
+    "bookingInfo": {
+        "defaultPrice": 43900,
+        "days": 5,
+        "departureDate": "2023-04-18T03:00:00",
+        "airport": "CGN"
+    },
+    "parentIds": {
+        "regionId": "c2c1bf36-d1fd-478a-953f-f3225f228b2c",
+        "virtualRegionIds": [],
+        "cityId": "47471892-a298-4da0-8a00-023cffc5790c",
+        "countryId": "c838c5b6-59b3-43eb-94a0-9a22297fe309"
+    },
+    "type": "Hotel",
+    "facts": [
+        {
+            "name": "year-of-construction",
+            "value": "2017",
+            "key": "building-information_year-of-construction",
+            "group": "building-information"
+        },
+        {
+            "name": "number-of-rooms-total",
+            "value": "872",
+            "key": "building-information_number-of-rooms-total",
+            "group": "building-information"
+        },
+        {
+            "name": "visa",
+            "value": "true",
+            "key": "payment_visa",
+            "group": "payment"
+        },
+        {
+            "name": "mastercard",
+            "value": "true",
+            "key": "payment_mastercard",
+            "group": "payment"
+        },
+        {
+            "name": "air-conditioning",
+            "value": "true",
+            "key": "facilities_air-conditioning",
+            "group": "facilities"
+        },
+        {
+            "name": "lobby",
+            "value": "true",
+            "key": "facilities_lobby",
+            "group": "facilities"
+        },
+        {
+            "name": "24-hour-reception",
+            "value": "true",
+            "key": "facilities_24-hour-reception",
+            "group": "facilities"
+        },
+        {
+            "name": "24-hour-check-in",
+            "value": "true",
+            "key": "facilities_24-hour-check-in",
+            "group": "facilities"
+        },
+        {
+            "name": "cafe",
+            "value": "7",
+            "key": "facilities_cafe",
+            "group": "facilities"
+        },
+        {
+            "name": "small-supermarket",
+            "value": "1",
+            "key": "facilities_small-supermarket",
+            "group": "facilities"
+        },
+        {
+            "name": "shops",
+            "value": "1",
+            "key": "facilities_shops",
+            "group": "facilities"
+        },
+        {
+            "name": "hairdresser",
+            "value": "1",
+            "key": "facilities_hairdresser",
+            "group": "facilities"
+        },
+        {
+            "name": "bar-s",
+            "value": "13",
+            "key": "facilities_bar-s",
+            "group": "facilities"
+        },
+        {
+            "name": "games-room",
+            "value": "1",
+            "key": "facilities_games-room",
+            "group": "facilities"
+        },
+        {
+            "name": "restaurant-s",
+            "value": "8",
+            "key": "facilities_restaurant-s",
+            "group": "facilities"
+        },
+        {
+            "name": "restaurant-s-with-air-conditioning",
+            "value": "1",
+            "key": "facilities_restaurant-s-with-air-conditioning",
+            "group": "facilities"
+        },
+        {
+            "name": "restaurant-s-with-non-smoking-area",
+            "value": "1",
+            "key": "facilities_restaurant-s-with-non-smoking-area",
+            "group": "facilities"
+        },
+        {
+            "name": "conference-room",
+            "value": "39",
+            "key": "facilities_conference-room",
+            "group": "facilities"
+        },
+        {
+            "name": "internet-access",
+            "value": "true",
+            "key": "facilities_internet-access",
+            "group": "facilities"
+        },
+        {
+            "name": "wlan-access",
+            "value": "true",
+            "key": "facilities_wlan-access",
+            "group": "facilities"
+        },
+        {
+            "name": "room-service",
+            "value": "true",
+            "key": "facilities_room-service",
+            "group": "facilities"
+        },
+        {
+            "name": "laundry-service",
+            "value": "true",
+            "key": "facilities_laundry-service",
+            "group": "facilities"
+        },
+        {
+            "name": "medical-assistance",
+            "value": "true",
+            "key": "facilities_medical-assistance",
+            "group": "facilities"
+        },
+        {
+            "name": "garage",
+            "value": "true",
+            "key": "facilities_garage",
+            "group": "facilities"
+        },
+        {
+            "name": "playground",
+            "value": "true",
+            "key": "facilities_playground",
+            "group": "facilities"
+        },
+        {
+            "name": "laundry-facilities",
+            "value": "true",
+            "key": "facilities_laundry-facilities",
+            "group": "facilities"
+        },
+        {
+            "name": "bathroom",
+            "value": "true",
+            "key": "room-facilities_bathroom",
+            "group": "room-facilities"
+        },
+        {
+            "name": "air-conditioning-centrally-regulated",
+            "value": "true",
+            "key": "room-facilities_air-conditioning-centrally-regulated",
+            "group": "room-facilities"
+        },
+        {
+            "name": "balcony-terrace",
+            "value": "true",
+            "key": "room-facilities_balcony-terrace",
+            "group": "room-facilities"
+        },
+        {
+            "name": "outdoor-pool-s",
+            "value": "9",
+            "key": "sport-entertainment_outdoor-pool-s",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "children-s-pool",
+            "value": "4",
+            "key": "sport-entertainment_children-s-pool",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "car-park",
+            "value": "true",
+            "key": "facilities_car-park",
+            "group": "facilities"
+        },
+        {
+            "name": "kids-club",
+            "value": "true",
+            "key": "facilities_kids-club",
+            "group": "facilities"
+        },
+        {
+            "name": "hairdryer",
+            "value": "true",
+            "key": "room-facilities_hairdryer",
+            "group": "room-facilities"
+        },
+        {
+            "name": "minibar",
+            "value": "true",
+            "key": "room-facilities_minibar",
+            "group": "room-facilities"
+        },
+        {
+            "name": "safe",
+            "value": "true",
+            "key": "room-facilities_safe",
+            "group": "room-facilities"
+        },
+        {
+            "name": "tv",
+            "value": "true",
+            "key": "room-facilities_tv",
+            "group": "room-facilities"
+        },
+        {
+            "name": "tea-coffee-maker",
+            "value": "true",
+            "key": "room-facilities_tea-coffee-maker",
+            "group": "room-facilities"
+        },
+        {
+            "name": "indoor-pool",
+            "value": "1",
+            "key": "sport-entertainment_indoor-pool",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "pool-bar",
+            "value": "1",
+            "key": "sport-entertainment_pool-bar",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "sun-loungers",
+            "value": "1",
+            "key": "sport-entertainment_sun-loungers",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "parasols",
+            "value": "1",
+            "key": "sport-entertainment_parasols",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "sauna",
+            "value": "1",
+            "key": "sport-entertainment_sauna",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "steam-bath",
+            "value": "1",
+            "key": "sport-entertainment_steam-bath",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "massage",
+            "value": "1",
+            "key": "sport-entertainment_massage",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "gym",
+            "value": "1",
+            "key": "sport-entertainment_gym",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "table-tennis",
+            "value": "1",
+            "key": "sport-entertainment_table-tennis",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "bowling",
+            "value": "1",
+            "key": "sport-entertainment_bowling",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "entertainment-programme",
+            "value": "1",
+            "key": "sport-entertainment_entertainment-programme",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "children-s-entertainment",
+            "value": "1",
+            "key": "sport-entertainment_children-s-entertainment",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "tennis",
+            "value": "1",
+            "key": "sport-entertainment_tennis",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "darts",
+            "value": "1",
+            "key": "sport-entertainment_darts",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "billiards-snooker",
+            "value": "1",
+            "key": "sport-entertainment_billiards-snooker",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "sun-terrace",
+            "value": "1",
+            "key": "sport-entertainment_sun-terrace",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "beach",
+            "value": "1700",
+            "key": "distances_beach",
+            "group": "distances"
+        },
+        {
+            "name": "aquapark",
+            "value": "true",
+            "key": "sport-entertainment_aquapark",
+            "group": "sport-entertainment"
+        },
+        {
+            "name": "bbq-toegestaan",
+            "value": "true",
+            "key": "facilities_bbq-toegestaan",
+            "group": "facilities"
+        }
+    ],
+    "tipsCount": 2,
+    "bangaScore2": 2589.0793,
+    "roomInfo": {},
+    "heliosId": 475371,
+    "geo": {
+        "coordinates": [
+            31.07042,
+            36.85793
+        ]
+    },
+    "distanceFilters": [],
+    "hasAdlinks": true,
+    "_createdAt": "2021-06-16T14:24:14.642441+00:00",
+    "defaultMedia": {
+        "sourceUrl": "https://storage.googleapis.com/images_trvl-portfolio-prod/acco/c628ad72-c0f9-4a14-9df3-a822e997ec15/a2ef5167-9a4c-4511-a9e4-8d623465fd2e.webp",
+        "rotationDegrees": null,
+        "id": "b6a9932a-c8a5-4068-b5aa-1a5447451d89",
+        "title": ""
+    },
+    "id": "c628ad72-c0f9-4a14-9df3-a822e997ec15",
+    "_updatedAt": "2023-04-24T00:27:36.70979+00:00",
+    "bangaScore": 2136.6481458287667,
+    "slug": "granada-luxury-belek",
+    "reviewCalculations": {
+        "lastReviewDate": 1678565357000,
+        "adjusted": {
+            "price": 0.87,
+            "rating": 0.9
+        },
+        "perTraveledWith": {
+            "OTHER": {
+                "rating": 10,
+                "count": 806
+            },
+            "GROUP": {
+                "rating": 9.68,
+                "count": 806
+            },
+            "FAMILY-WITH-YOUNG-CHILDREN": {
+                "rating": 9.13,
+                "count": 806
+            },
+            "FRIENDS": {
+                "rating": 9.4,
+                "count": 806
+            },
+            "SINGLE": {
+                "rating": 9.21,
+                "count": 806
+            },
+            "COUPLE": {
+                "rating": 9.62,
+                "count": 806
+            },
+            "FAMILY-WITH-OLDER-CHILDREN": {
+                "rating": 9,
+                "count": 806
+            }
+        },
+        "overall": {
+            "rating": 9.3,
+            "count": 806
+        },
+        "perAspectGroup": {
+            "priceQuality": {
+                "rating": 9.06,
+                "count": 806
+            },
+            "general": {
+                "rating": 9.3,
+                "count": 806
+            },
+            "childFriendly": {
+                "rating": 9.55,
+                "count": 806
+            },
+            "service": {
+                "rating": 9.32,
+                "count": 806
+            },
+            "hygiene": {
+                "rating": 9.3,
+                "count": 806
+            },
+            "pool": {
+                "rating": 9.56,
+                "count": 806
+            },
+            "location": {
+                "rating": 8.76,
+                "count": 806
+            },
+            "room": {
+                "rating": 9.12,
+                "count": 806
+            },
+            "food": {
+                "rating": 9.06,
+                "count": 806
+            }
+        }
+    },
+    "zooverGoldAward": true,
+    "defaultPrice": 43900,
+    "address": {
+        "zipcode": "TR-07506",
+        "street": "Belek Mahallesi Kelebek Cad. Belek Mevkii"
+    },
+    "premiumAdlinkEnabled": false,
+    "questionsCount": 10,
+    "holidayTypes": [
+        "SEA_TRIP",
+        "BOOKING_TRIP"
+    ],
+    "domains": [
+        {
+            "name": "lastminute"
+        },
+        {
+            "name": "package_holiday"
+        },
+        {
+            "name": "sun_holiday"
+        }
+    ],
+    "filters": [
+        "gameroom",
+        "restaurant",
+        "wifi",
+        "playground",
+        "airco",
+        "childrens_pool",
+        "kids_club",
+        "pool",
+        "entertainment",
+        "waterpark",
+        "sport_facilities"
+    ],
+    "stars": 5,
+    "pageViewsCount": 3202,
+    "traveledWith": {
+        "single": 12,
+        "ALL": 806,
+        "couple": 151,
+        "other": 1,
+        "family_with_young_children": 243,
+        "family_with_older_children": 126,
+        "family-with-older-children": 16,
+        "family-with-young-children": 44,
+        "friends": 186,
+        "group": 27
+    },
+    "parentId": "47471892-a298-4da0-8a00-023cffc5790c",
+    "staticThemes": [
+        {
+            "name": "budget"
+        },
+        {
+            "name": "all_inclusive"
+        },
+        {
+            "name": "child_friendly"
+        },
+        {
+            "name": "aqua_park"
+        }
+    ],
+    "zooverSilverAward": false,
+    "heliosUrl": "/turkije/turkse-riviera/belek-aksu-kadriye/granada-luxury-belek/hotel",
+    "locales": {
+        "ALL": 806,
+        "de": 16,
+        "no": 2,
+        "ru": 1,
+        "pt": 1,
+        "uk": 439,
+        "be-nl": 10,
+        "fr": 6,
+        "pl": 3,
+        "nl": 303,
+        "us": 2,
+        "tr": 23
+    },
+    "topImages": [
+        {
+            "sourceUrl": "https://storage.googleapis.com/images_trvl-portfolio-prod/acco/c628ad72-c0f9-4a14-9df3-a822e997ec15/a2ef5167-9a4c-4511-a9e4-8d623465fd2e.webp",
+            "rotationDegrees": null,
+            "id": "b6a9932a-c8a5-4068-b5aa-1a5447451d89",
+            "title": ""
+        },
+        {
+            "sourceUrl": "https://storage.googleapis.com/images_trvl-portfolio-prod/zoover_legacy/images/entities/original/03230000-03239999/E3236568.jpg",
+            "rotationDegrees": 0,
+            "id": "bbb65c7c-12b8-4ca7-ad1e-7f39949ac0ce",
+            "title": ""
+        },
+        {
+            "sourceUrl": "https://storage.googleapis.com/images_trvl-portfolio-prod/zoover_legacy/images/entities/original/03230000-03239999/E3236567.jpg",
+            "rotationDegrees": 0,
+            "id": "39605c74-9611-4c10-99a8-0dedebcde175",
+            "title": ""
+        },
+        {
+            "sourceUrl": "https://storage.googleapis.com/images_trvl-portfolio-prod/zoover_legacy/images/entities/original/03230000-03239999/E3236566.jpg",
+            "rotationDegrees": 0,
+            "id": "c553be08-a478-4c14-81d0-6da47f412c5c",
+            "title": ""
+        },
+        {
+            "sourceUrl": "https://storage.googleapis.com/images_trvl-portfolio-prod/acco/c628ad72-c0f9-4a14-9df3-a822e997ec15/f6914892-99fb-4373-8381-f3cce9fc68fa.webp",
+            "rotationDegrees": 0,
+            "id": "2810ad76-bbb1-4e8c-b533-075bd645120d",
+            "title": ""
+        }
+    ],
+    "contactInformation": {
+        "phone": "+90 242 711 07 07",
+        "email": "info@granada.com.tr",
+        "url": "http://www.granada.com.tr/luxury-belek"
+    },
+    "isBookable": true,
+    "lpsaScore": {
+        "area": 87,
+        "country": 101,
+        "general": 724,
+        "dest": 12
+    },
+    "awards": {
+        "2019": {
+            "regionAward": false,
+            "rank": 471,
+            "awardType": "gold"
+        },
+        "2020": {
+            "regionAward": false,
+            "rank": 114,
+            "awardType": "gold"
+        },
+        "2021": {
+            "regionAward": false,
+            "rank": 114,
+            "awardType": "gold"
+        },
+        "2022": {
+            "regionAward": false,
+            "rank": 137,
+            "awardType": "gold"
+        }
+    },
+    "name": "Granada Luxury Belek",
+    "accommodationType": "hotel",
+    "answersCount": 1,
+    "giataId": "551258",
+    "parents": [
+        {
+            "heliosUrl": "/turkije",
+            "name": "Turkije",
+            "destinationType": "COUNTRY",
+            "id": "c838c5b6-59b3-43eb-94a0-9a22297fe309",
+            "slug": "turkije",
+            "heliosId": 933
+        },
+        {
+            "heliosUrl": "/turkije/turkse-riviera",
+            "name": "Turkse Rivièra",
+            "destinationType": "REGION",
+            "id": "c2c1bf36-d1fd-478a-953f-f3225f228b2c",
+            "slug": "turkse-riviera",
+            "heliosId": 4828
+        },
+        {
+            "heliosUrl": "/turkije/turkse-riviera/belek-aksu-kadriye",
+            "name": "Belek / Aksu / Kadriye",
+            "destinationType": "CITY",
+            "id": "47471892-a298-4da0-8a00-023cffc5790c",
+            "slug": "belek-aksu-kadriye",
+            "heliosId": 52806
+        }
+    ]
+}
