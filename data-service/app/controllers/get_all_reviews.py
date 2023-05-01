@@ -14,7 +14,8 @@ async def get_all_reviews_for_accommodation(db_pool: Pool, slug: str) -> List[Re
             FROM reviews r\
             INNER JOIN accommodations a\
             ON r.accommodation_id = a.id\
-            WHERE a.slug = $1;\
+            WHERE a.slug = $1\
+            ORDER BY created_at DESC;\
         ", slug)
 
         if results == None:

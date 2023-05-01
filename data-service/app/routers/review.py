@@ -11,7 +11,7 @@ async def all_reviews_route(request: Request, slug: str):
     db_pool: Pool = request.app.state.database_pool
     return await get_all_reviews_for_accommodation(db_pool, slug) 
 
-@review_router.get("/accommodation/{slug}/review/{id}")
-async def single_reviews_route(request: Request, slug: str, id: int):
+@review_router.get("/accommodation/{slug}/review")
+async def single_reviews_route(request: Request, slug: str, id: int): # slug - path param, id - query param
     db_pool: Pool = request.app.state.database_pool
     return await get_single_review_for_accommodation(db_pool, slug, id) 

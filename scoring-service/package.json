@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "nodemon src/main.ts"
+    "dev": "nodemon src/main.ts",
+    "test": "ts-node src/tests/calculateWeightedGeneralScore.test.ts"
   },
   "author": "",
   "license": "ISC",

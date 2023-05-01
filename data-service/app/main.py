@@ -20,8 +20,4 @@ app.include_router(review_router)
 async def startup():
     app.state.database_pool = await asyncpg.create_pool(dsn=os.getenv("DATABASE_URL"))
 
-@app.get("/")
-async def root():
-    return {"message": "hello!"}
-
 
